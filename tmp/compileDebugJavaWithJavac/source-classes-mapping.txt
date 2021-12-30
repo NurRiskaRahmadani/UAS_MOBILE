@@ -1,0 +1,2 @@
+id/rahmadani/nurriska/proyek_praresponsi/BuildConfig.java
+ id.rahmadani.nurriska.proyek_praresponsi.BuildConfig
